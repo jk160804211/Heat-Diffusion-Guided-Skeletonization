@@ -8,19 +8,6 @@ The framework reconstructs whole-tree structure from LiDAR point clouds by integ
 
 ---
 
-## Overview
-
-The proposed method contains two main components:
-
-1. **Heat-diffusion-guided skeletonization**  
-   A bottom-up heat-diffusion field is constructed on woody point clouds to estimate growth-trend vectors, which guide branch trajectory tracing and topology refinement.
-
-2. **Spherical-harmonic crown representation**  
-   Foliage points are mapped onto a spherical radial representation, and crown morphology is encoded using spherical harmonics to obtain a compact and continuous crown model.
-
-The overall goal is to provide a unified whole-tree representation that links internal woody architecture with external crown morphology.
-
----
 
 ## Graphical User Interface
 
