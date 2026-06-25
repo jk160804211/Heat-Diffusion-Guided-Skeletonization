@@ -8,6 +8,13 @@ The framework reconstructs whole-tree structure from LiDAR point clouds by integ
 
 ---
 
+## Method Principle
+
+The principle of the proposed framework is illustrated below. The workflow includes heat-diffusion-based growth-trend estimation, streamline-guided skeleton extraction, QSM reconstruction, and spherical-harmonic crown modeling.
+
+![Method Principle](pictures/figure2.png)
+
+---
 
 ## Graphical User Interface
 
@@ -17,13 +24,6 @@ The repository includes a graphical user interface for loading LiDAR point cloud
 
 ---
 
-## Method Principle
-
-The principle of the proposed framework is illustrated below. The workflow includes heat-diffusion-based growth-trend estimation, streamline-guided skeleton extraction, QSM reconstruction, and spherical-harmonic crown modeling.
-
-![Method Principle](pictures/figure2.png)
-
----
 
 ## Repository Structure
 
